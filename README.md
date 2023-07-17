@@ -8,4 +8,4 @@
 # GitHub Stats:
 ![joaogabriel1702's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joaogabriel1702&theme=material-palenight&show_icons=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogabriel1702&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogabriel1702&theme=material-palenight&layout=compact)
