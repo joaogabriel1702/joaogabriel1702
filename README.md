@@ -6,7 +6,7 @@ Graduated in computer sciences and with 1 year of experience and passionate abou
 🎓 [**Orange Tech +**](https://drive.google.com/drive/folders/1O9alLKxkNPR3e6XnyhEhjpeIjQz2W8Uo) - 2022  
 🎓 [**Trilha Ifood Front-End**](https://drive.google.com/drive/folders/1bUQE1oc059wfHaMpkz46u8n2Y06tzlaW) - 2023  
 
-### 💻 Programming Languages And Tools:
+# 💻 Programming Languages And Tools:
 
 - **Favourites**  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
