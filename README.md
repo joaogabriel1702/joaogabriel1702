@@ -26,7 +26,7 @@ Graduated in computer sciences and with 1 year of experience and passionate abou
 <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a>
 
 # 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-gabriel-cruzs-soares)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-gabriel-cruz-soares)
 
 # 📊 GitHub Stats:
 ![joaogabriel1702's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joaogabriel1702&theme=material-palenight&show_icons=true)
